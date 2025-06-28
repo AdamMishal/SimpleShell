@@ -1,1 +1,1 @@
-Simple Shell in c that sues fork and execvp.
+Simple Shell in c that uses fork and execvp.
